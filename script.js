@@ -1,4 +1,4 @@
-(function () {
+function hujinsight() {
   let tokenErrorOccurred = false;
   let importCourses = false;
 
@@ -402,4 +402,4 @@
   } else {
     alert("נא להפעיל את הסקריפט בדף הציונים");
   }
-})();
+};
