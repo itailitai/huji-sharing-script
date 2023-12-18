@@ -403,3 +403,4 @@ function hujinsight() {
     alert("נא להפעיל את הסקריפט בדף הציונים");
   }
 };
+hujinsight()
